@@ -29,3 +29,8 @@
 li {
     list-style-type: none;
 }
+
+.arrow:active,
+.arrow:focus {
+    rotate: 90deg;
+}
