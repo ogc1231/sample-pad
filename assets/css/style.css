@@ -20,3 +20,12 @@
     width: 150px;
     height: 150px;
 }
+
+.question {
+    display: flex;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+}
