@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .button-container {
     display: grid;
     grid-template-columns: repeat(3, 150px) ;
