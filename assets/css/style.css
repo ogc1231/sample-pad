@@ -24,13 +24,9 @@
 .question {
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 li {
     list-style-type: none;
-}
-
-.arrow:active,
-.arrow:focus {
-    rotate: 90deg;
 }
