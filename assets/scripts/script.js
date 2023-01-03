@@ -6,3 +6,8 @@ buttons.forEach(function(button) {
         playSound(button)
     } )
 })
+
+function playSound(button) {
+    const soundAudio = document.getElementById(button.dataset.sound)
+    soundAudio.play()
+}
