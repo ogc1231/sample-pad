@@ -9,5 +9,6 @@ buttons.forEach(function(button) {
 
 function playSound(button) {
     const soundAudio = document.getElementById(button.dataset.sound)
+    soundAudio.currentTime = 0
     soundAudio.play()
 }
