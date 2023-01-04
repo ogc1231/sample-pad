@@ -32,19 +32,20 @@ body {
     margin: 0 auto;
 }
 
-.item-one {
+.item-one,
+.item-two {
     margin-bottom: 1em;
+    border-radius: 8px;
 }
 
 .question {
-    background-color: green;
-    color: white;
     padding: 0 1rem;
     display: flex;
     align-items: center;
     justify-content: flex-start;
     position: relative;
     cursor: pointer;
+    border-radius: 8px;
 }
 
 .question-number {
@@ -57,6 +58,7 @@ body {
     content: ">";
     position: absolute;
     right: 1rem;
+    border-radius: none;
 }
 
 .question.active::after {
