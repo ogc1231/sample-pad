@@ -19,6 +19,15 @@ h1, h2 {
     color: white;
 }
 
+.slider, .change {
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.slider {
+    display: flex;
+}
+
 .button-container {
     display: grid;
     grid-template-columns: repeat(4, 150px) ;
