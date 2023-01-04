@@ -23,12 +23,22 @@ h1, h2 {
     display: grid;
     grid-template-columns: repeat(4, 150px) ;
     justify-content: center;
-    gap: 10px;
+    gap: 15px;
 }
 
 .button {
     width: 150px;
     height: 150px;
+    color: white;
+    background-color: #171717;
+    box-shadow: 0 0 0.8rem #ff3939;
+    border-radius: 8px;
+    border: 1px solid #ff3939;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #333;
 }
 
 .instructions-item {
