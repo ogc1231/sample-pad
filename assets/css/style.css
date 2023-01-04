@@ -6,12 +6,17 @@
 
 body {
     font-size: 1rem;
+    background-color: #171717;
 }
 
 .container {
     width: 80%;
     margin: 0 auto;
     text-align: center;
+}
+
+h1, h2 {
+    color: white;
 }
 
 .button-container {
@@ -27,9 +32,10 @@ body {
 }
 
 .instructions-item {
-    background-color: lightblue;
+    background-color: lightgray;
     max-width: 650px;
     margin: 0 auto;
+    padding: 0.5rem;
 }
 
 .item-one,
@@ -39,7 +45,7 @@ body {
 }
 
 .question {
-    padding: 0 1rem;
+    padding: 0.5rem 1rem;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -67,7 +73,9 @@ body {
 
 .answer {
     display: none;
-    border-top: 2px solid black;
+    border-top: 1px solid lightslategray;
+    padding: 0.5rem 0 0.5rem 3rem;
+    text-align: left;
 }
 
 .question.active + .answer {
