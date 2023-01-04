@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-size: 1rem;
+}
+
 .container {
     width: 80%;
     margin: 0 auto;
@@ -41,6 +45,12 @@
     justify-content: flex-start;
     position: relative;
     cursor: pointer;
+}
+
+.question-number {
+    font-weight: 700;
+    font-size: 1rem;
+    margin-right: 1em;
 }
 
 .question::after {
