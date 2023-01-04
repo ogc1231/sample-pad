@@ -23,17 +23,43 @@
 }
 
 .instructions-item {
-    background-color: lightgray;
+    background-color: lightblue;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.item-one {
     margin-bottom: 1em;
-    padding: 1rem;
-    border-top: 4px solid green;
 }
 
 .question {
-    margin-bottom: 1em;
+    background-color: green;
+    color: white;
+    padding: 0 1rem;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
+    position: relative;
+    cursor: pointer;
+}
+
+.question::after {
+    content: ">";
+    position: absolute;
+    right: 1rem;
+}
+
+.question.active::after {
+    transform: rotate(90deg);
+}
+
+.answer {
+    display: none;
+    border-top: 2px solid black;
+}
+
+.question.active + .answer {
+    display: block;
 }
 
 li {
