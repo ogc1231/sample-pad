@@ -39,6 +39,7 @@ h1, h2 {
     box-shadow: 0 0 0.8rem #ff3939;
     border-radius: 8px;
     border: 1px solid #ff3939;
+    transition: all 0.1s ease-in-out;
 }
 
 .button:hover,
@@ -99,4 +100,8 @@ h1, h2 {
 
 li {
     list-style-type: none;
+}
+
+.button.active {
+    scale: 1.2;
 }
