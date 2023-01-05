@@ -1,3 +1,4 @@
+/* jshint esversion: 11 */
 // // calling elements with button class into script
 // const buttons = document.querySelectorAll(".button")
 
@@ -24,30 +25,49 @@ const synthButton = document.querySelectorAll(".button")
 
 let audio = new Audio("assets/audio/kick.wav")
 
-const playTune = (button) => {
-    audio.src = `assets/audio/${button}.wav`
-    audio.play()
+let clickedKey;
 
-    const clickedKey = document.querySelector(`[data-key="${button}"]`)
-    clickedKey.classList.add("active")
+const playTune = (button) => {
+  clickedKey = document.querySelector(`[data-key="${button}"]`)
+  clickedKey.classList.add("active")
+  let dataSound = clickedKey.dataset.sound
+  audio.src = `assets/audio/${dataSound}.wav`
+  audio.play()
+
+  // audio.addEventListener("ended", function() {
+  //   clickedKey.classList.remove("active")
+  // })
+  setTimeout(() => {
+    clickedKey.classList.remove("active")
+  }, 250);
 }
 
 synthButton.forEach(button => {
-    button.addEventListener("click", () => playTune(button.dataset.sound))
+  button.addEventListener("click", () => playTune(button.dataset.key))
 })
 
 const pressedKey = (e) => {
-    playTune(e.button)
+  playTune(e.key)
 }
 
 document.addEventListener("keydown", pressedKey)
 
 // Accordion menu
 
-const question = document.querySelectorAll(".question")
+const questions = document.querySelectorAll(".question")
 
-question.forEach(question => {
+questions.forEach(question => {
   question.addEventListener("click", event => {
-    question.classList.toggle("active");    
+    questions.forEach(question => {
+      question.classList.remove("active");
+    })
+    console.log(question.classList)
+    if (question.classList.contains("active")) {
+      console.log("a")
+      question.classList.remove("active");
+    } else {
+      console.log("b")
+      question.classList.add("active");
+    }
   });
 });
