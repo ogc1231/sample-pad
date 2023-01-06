@@ -32,6 +32,7 @@ const playTune = (button) => {
   clickedKey.classList.add("active")
   let dataSound = clickedKey.dataset.sound
   audio.src = `assets/audio/${dataSound}.wav`
+  audio.currentTime = 0 
   audio.play()
 
   // audio.addEventListener("ended", function() {
@@ -39,7 +40,7 @@ const playTune = (button) => {
   // })
   setTimeout(() => {
     clickedKey.classList.remove("active")
-  }, 250);
+  }, 100);
 }
 
 synthButton.forEach(button => {
