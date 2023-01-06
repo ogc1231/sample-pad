@@ -36,7 +36,7 @@ h1, h2 {
     height: 150px;
     color: white;
     background-color: #171717;
-    
+    box-shadow: 0 0 0.4rem #ff3939;
     border-radius: 8px;
     border: 1px solid #ff3939;
     transition: all 0.1s ease-in-out;
