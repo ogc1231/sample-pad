@@ -22,6 +22,7 @@
 // }
 
 const synthButton = document.querySelectorAll(".button")
+volume = document.querySelector(".volume input")
 
 let audio = new Audio("assets/audio/kick.wav")
 
@@ -47,10 +48,15 @@ synthButton.forEach(button => {
   button.addEventListener("click", () => playTune(button.dataset.key))
 })
 
+const handleVolume = (e) => {
+  audio.volume = e.target.value / 100;
+}
+
 const pressedKey = (e) => {
   playTune(e.key)
 }
 
+volume.addEventListener("input", handleVolume)
 document.addEventListener("keydown", pressedKey)
 
 // Accordion menu
