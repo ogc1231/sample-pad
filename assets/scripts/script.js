@@ -66,15 +66,15 @@ const questions = document.querySelectorAll(".question")
 questions.forEach(question => {
   question.addEventListener("click", event => {
     questions.forEach(question => {
-      question.classList.remove("active");
+      question.classList.toggle("active");
     })
     console.log(question.classList)
     if (question.classList.contains("active")) {
       console.log("a")
-      question.classList.remove("active");
+      question.classList.add("active");
     } else {
       console.log("b")
-      question.classList.add("active");
+      question.classList.remove("active");
     }
   });
 });
