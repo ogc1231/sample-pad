@@ -1,6 +1,6 @@
 
 
-# Sushi Cult Resturant
+# Sample Pad
 
 This is the website for 
 
@@ -8,7 +8,7 @@ The website aim is to build
 
 [Live link to website](https://ogc1231.github.io/synth-pad/)
 
-![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG)
+
 
 ## UX & Design
 ### User Stories
@@ -21,7 +21,7 @@ The website aim is to build
 
 #### Home Page
 
-![Home Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-home.PNG)
+
 
 
 ## Features
@@ -80,7 +80,7 @@ List of the technologies used on this website.
 
 
 
-The live link can be found [here](https://ogc1231.github.io/sushi-cult-restaurant)
+
 
 ### Local Deployment
 
