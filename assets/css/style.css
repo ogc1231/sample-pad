@@ -62,6 +62,16 @@ h1, h2 {
     background-color: #333;
 }
 
+.keyboard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.letter {
+    padding-left: 0.25rem;
+}
+
 .instructions-item {
     background-color: lightgray;
     max-width: 650px;
