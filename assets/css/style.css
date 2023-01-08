@@ -107,6 +107,6 @@ li {
 }
 
 .button.active {
-    box-shadow: 0 0 2rem #ff3939;
+    box-shadow: 0 0 2.5rem #ff3939;
     scale: 1.2;
 }
