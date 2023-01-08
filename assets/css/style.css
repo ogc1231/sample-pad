@@ -19,6 +19,17 @@ h1, h2 {
     color: white;
 }
 
+.volume {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.volume-text {
+    color: white;
+    padding-right: 0.5rem;
+}
+
 .slider, .change {
     margin-bottom: 1rem;
     color: white;
