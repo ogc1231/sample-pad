@@ -19,6 +19,8 @@ h1, h2 {
     color: white;
 }
 
+/* Volume slider */
+
 .volume {
     display: flex;
     align-items: center;
@@ -34,6 +36,8 @@ h1, h2 {
     margin-bottom: 1rem;
     color: white;
 }
+
+/* Button grid */
 
 .button-container {
     display: grid;
@@ -62,6 +66,11 @@ h1, h2 {
     background-color: #333;
 }
 
+.button.active {
+    box-shadow: 0 0 2.5rem #ff3939;
+    scale: 1.2;
+}
+
 .keyboard {
     display: flex;
     justify-content: center;
@@ -71,6 +80,8 @@ h1, h2 {
 .letter {
     padding-left: 0.25rem;
 }
+
+/* Instruction/accordion section */
 
 .instructions-item {
     background-color: lightgray;
@@ -127,10 +138,6 @@ li {
     list-style-type: none;
 }
 
-.button.active {
-    box-shadow: 0 0 2.5rem #ff3939;
-    scale: 1.2;
-}
 
 /* Footer section */
 .footer {
