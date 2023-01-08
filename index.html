@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,23 +13,29 @@
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/c8d158cc76.js" crossorigin="anonymous"></script>
 </head>
+
 <body>
+    <!-- header section -->
     <header class="container">
         <h1>Sample Pad</h1>
-        
+
     </header>
     <main>
+        <!-- Sample pad section -->
         <section>
+            <!-- Volume slider -->
             <div class="adjust container">
                 <div class="volume" min="0" max="100" step="10">
                     <span class="volume-text">Volume</span>
                     <input type="range">
                 </div>
+                <!-- Change samples button -->
                 <div class="change">
                     <span>Change Intrument</span>
                     <input type="checkbox">
                 </div>
             </div>
+            <!-- Buttons grid section -->
             <div class="button-container container">
                 <div class="button button1" data-sound="kick" data-key="q">
                     <div class="keyboard">
@@ -116,19 +123,22 @@
                 </div>
             </div>
 
+            <!-- Audio files -->
             <audio src="assets/audio/kick.wav" id="kick"></audio>
             <audio src="assets/audio/snare.wav" id="snare"></audio>
             <audio src="assets/audio/tom-floor.wav" id="tom-floor"></audio>
             <audio src="assets/audio/tom-medium.wav" id="tom-medium"></audio>
             <audio src="assets/audio/tom-high.wav" id="tom-high"></audio>
             <audio src="assets/audio/donk.wav" id="donk"></audio>
-            <audio src="assets/audio/" id=""></audio>
-            <audio src="assets/audio/" id=""></audio>
-            <audio src="assets/audio/crash.wav" id="crash"></audio>
-            <audio src="assets/audio/" id=""></audio>
+            <audio src="assets/audio/bell1.wav" id="bell1"></audio>
+            <audio src="assets/audio/bell2.wav" id="bell2"></audio>
+            <audio src="assets/audio/crash1.wav" id="crash1"></audio>
+            <audio src="assets/audio/crash2.wav" id="crash2"></audio>
             <audio src="assets/audio/ride.wav" id="ride"></audio>
-            <audio src="assets/audio/" id=""></audio>
+            <audio src="assets/audio/china.wav" id="china"></audio>
         </section>
+
+        <!-- Instructions/accordion section -->
         <section class="instructions-container container">
             <h2 class="instructions-title">Instructions</h2>
             <ul class="instructions-list">
@@ -153,7 +163,26 @@
             </ul>
         </section>
     </main>
-    <footer></footer>
+    <!-- Footer section -->
+    <footer>
+        <ul class="social-links">
+            <li class="social-link"><a class="social-linka" href="https://instagram.com" target="_blank"
+                    rel="noopener noreferrer nofollow" aria-label="Follow us on Instagram (opens in a new tab)"><i
+                        class="fa-brands fa-instagram"></i></a></li>
+            <li class="social-link"><a class="social-linka" href="https://facebook.com" target="_blank"
+                    rel="noopener noreferrer nofollow" aria-label="Follow us on Facebook (opens in a new tab)"><i
+                        class="fa-brands fa-facebook"></i></a></li>
+            <li class="social-link"><a class="social-linka" href="https://twitter.com" target="_blank"
+                    rel="noopener noreferrer nofollow" aria-label="Follow us on Twitter (opens in a new tab)"><i
+                        class="fa-brands fa-twitter"></i></a></li>
+            <li class="social-link"><a class="social-linka" href="https://www.tiktok.com" target="_blank"
+                    rel="noopener noreferrer nofollow" aria-label="Follow us on TikTok (opens in a new tab)"><i
+                        class="fa-brands fa-tiktok"></i></a></li>
+        </ul>
+        <p class="credit">Developed by<a class="credit-link" href="https://github.com/ogc1231" target="_blank"
+                rel="noopener noreferrer nofollow"> Oliver Craigie</a> 2023</p>
+    </footer>
     <script src="assets/scripts/script.js"></script>
 </body>
+
 </html>
