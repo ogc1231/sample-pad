@@ -131,3 +131,43 @@ li {
     box-shadow: 0 0 2.5rem #ff3939;
     scale: 1.2;
 }
+
+/* Footer section */
+.footer {
+    background-color: #171717;
+    padding: 1.2em 0;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-link {
+    list-style: none;
+    padding: 0 0.2em;
+    margin-bottom: 0.8em;
+}
+
+.social-linka {
+    text-decoration: none;
+    color: #fff;
+    padding: 0 1em;
+}
+
+.social-linka:hover,
+.social-linka:focus,
+.credit-link:hover,
+.credit-link:focus {
+    color: #555;
+}
+
+.credit {
+    text-align: center;
+}
+
+.credit-link {
+    text-decoration: none;
+    color: #fff;
+}
