@@ -1,5 +1,7 @@
 /* jshint esversion: 11 */
 
+// Button grid
+
 const synthButton = document.querySelectorAll(".button");
 volume = document.querySelector(".volume input");
 
