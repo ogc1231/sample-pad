@@ -1,23 +1,17 @@
-
-
 # Sample Pad
 
-This is the website for 
-
-The website aim is to build 
+This is website/app is for a sample pad that play audio files based on user input, is had been developed for those interested in audio production. The user can directly active audio files based on their direct input, more information on how use the app in the instruction of the webpage.
 
 [Live link to website](https://ogc1231.github.io/synth-pad/)
 
-
-
 ## UX & Design
 ### User Stories
-- As a user, I want to 
-- As a user, I want to 
-- As a user, I want to 
-- As a user, I want to 
-- As a user, I want to 
-- As a user, I want to 
+- As a user, I want to activate audio files based on my input.
+- As a user, I want to see what see what audio sample i'm playing. 
+- As a user, I want to see the corresponding button/key to activate the audio sample.
+- As a user, I want to adjust the volume of audio playing directly on the webpage/app.
+- As a user, I want to be able to change to another bank of audio files/
+- As a user, I want to be able to open/expand and close the instructions sections.
 
 #### Home Page
 
