@@ -121,8 +121,6 @@ As the wireframe was created in the early stages of the project some things chan
 
 ![screenshot](documentation/feature03.png)
 
-
-
 - **Instructions 2**
 
     - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
@@ -135,8 +133,6 @@ As the wireframe was created in the early stages of the project some things chan
 
 ![Footer](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/footer.png)
 
-
-
 ### Future Features
 
 Do you have additional ideas that you'd like to include on your project in the future?
@@ -144,12 +140,17 @@ Fantastic! List them here!
 It's always great to have plans for future improvements!
 Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
 
-- Cool new feature #1
-    - Any additional notes about this feature.
-- Cool new feature #2
-    - Any additional notes about this feature.
-- Cool new feature #3
-    - Any additional notes about this feature.
+- More customisation
+    - Allow users to upload their own audio files to make the webpage more versatile and user friendly to those who use more then just drums.
+
+- Change pad name based on file loaded
+    - Add a feature where the names on the pad button update when the banks are changed or different audio files are added.
+
+- Add midi/recording functionally 
+    - Add a feature to allow midi files to be create to save ideas and also record ideas
+
+- Backing tracks
+    - Add a feature to upload music/backing tracks so users can tap out drum beat the their musical creations.
 
 ## Tools & Technologies Used
 
