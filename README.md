@@ -13,10 +13,9 @@ This is website/app is for a sample pad that play audio files based on user inpu
 - As a user, I want to be able to change to another bank of audio files/
 - As a user, I want to be able to open/expand and close the instructions sections.
 
-#### Home Page
-
-
-
+### Wireframes
+### Colour Scheme
+### Typography
 
 ## Features
 ### Common Elements
@@ -24,8 +23,9 @@ This is website/app is for a sample pad that play audio files based on user inpu
 #### Logo and Navigation Bar
 
 #### Favicon
+[favicon](https://iconscout.com/icon/music-863)
 
-#### Footer
+
 
 ### Home Page
 
@@ -46,8 +46,9 @@ The website used a mobile first approach. Below are screenshots of mobile versio
 ### Technologies Used
 
 List of the technologies used on this website.
+
     JavaScript
-    JavaScript was used add interactive elements to the site.
+    JavaScript was used to add interactivity to the website.
 
     HTML5
     HTML5 was used to create the structure of the site.
@@ -85,6 +86,13 @@ List of the technologies used on this website.
 
 Code for the footer was taken from [Code Institute's](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/01-getting-set-up) Love Running walkthrough project with required tweaks to suit.
 
+Code for webpage was heavily inspired by the following videos
+
+Build A Piano With JavaScript - https://www.youtube.com/watch?v=vjco5yKZpU8
+
+Build A Playable PIANO in HTML CSS & JavaScript - https://www.youtube.com/watch?v=Mv1ZYpo8q4g
+
+Accordion (HTML, CSS and JavaScript) - https://www.youtube.com/watch?v=dr8Emho-kYo
 
 ### Content
 
