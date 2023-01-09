@@ -247,17 +247,23 @@ Links to pages who's code which heavily inspired and help build this webpage wit
 
 ### Media
 
-| Source | Location | Type | Notes |
-| --- | --- | --- | --- |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
-| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
-| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+Links to audio files used
+
+| [Remix Icon](https://iconscout.com/icon/music-863) | entire site | image, icon | favicon, keyboard icon |
+
+| [Font Awesome](https://fontawesome.com) | entire site| image | social media icons |
+
+| [Samplefocus](https://samplefocus.com/samples/hardbass-donk-one-shot) | entire site | audio | tom-floor.wav, tom-medium.wav, tom-high.wav, crash-left.wav, crash-right.wav, china.wav, china2.wav, ride.wav |
+
+| [Samplefocus](https://samplefocus.com/collections/fusion-drum-kit) | entire site | audio | donk.wav |
+
+| [YouTube](https://www.youtube.com/watch?v=mNnCiTOSof0) | entire site | audio | donk2.wav |
+
+| [Soundcamp](https://soundcamp.org/tag/crash) | entire site | audio |  crash-left2.wav, crash-right2.wav |
+
+| [Soundcamp](https://soundcamp.org/tag/ride-cymbal) | entire site | audio | ride2.wav |
+
+| [Drumforge](https://drumforge.com/collections/drumshotz/products/drumshotz-joel-wanasek-no-small-time-edition) | entire site | audio | kick.wav, kick2.wav, snare.wav, snare2.wav, tom-floor2.wav, tom-medium2.wav, tom-high2.wav |
 
 ### Acknowledgements
 
