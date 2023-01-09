@@ -1,12 +1,12 @@
 # SAMPLE PAD
 
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
+This is website/app is for a sample pad that play audio files based on user input, is had been developed for those interested in audio production. The user can activate audio files based on their direct input by clicking or pressing the corresponding keyboard key, more information on how use the app in the instruction of the webpage.
 
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
+The aim was to build an interactive front-end website which is repsonsive to the users actions.
 
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
+[Live link to website](https://ogc1231.github.io/sample-pad/)
+![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/preview.PNG)
+
 
 Consider adding a mockup image using the "Am I Responsive" website.
 Here's your deployed site as an example:
