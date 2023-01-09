@@ -131,9 +131,9 @@ As the wireframe was created in the early stages of the project some things chan
 
 - **Footer**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Footer, social media links and developer credit
 
-![screenshot](documentation/feature03.png)
+![Footer](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/footer.png)
 
 
 
