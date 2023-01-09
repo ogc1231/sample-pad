@@ -81,7 +81,7 @@ h1, h2 {
 .button.active {
     box-shadow: 0 0 2.5rem #ff3939;
     transform: scale(1.2);
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 .keyboard {
@@ -204,6 +204,10 @@ li {
         width: 150px;
         height: 150px;
     }
+    .button.active {
+        font-size: 1.2rem;
+    }
+    
 }
 
 @media (min-width: 800px) {
