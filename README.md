@@ -1,116 +1,270 @@
-# Sample Pad
+# SAMPLE PAD
 
-This is website/app is for a sample pad that play audio files based on user input, is had been developed for those interested in audio production. The user can directly active audio files based on their direct input, more information on how use the app in the instruction of the webpage.
+This is website/app is for a sample pad that play audio files based on user input, is had been developed for those interested in audio production. The user can activate audio files based on their direct input by clicking or pressing the corresponding keyboard key, more information on how use the app in the instruction of the webpage.
+
+The aim was to build an interactive front-end website which is repsonsive to the users actions.
 
 [Live link to website](https://ogc1231.github.io/sample-pad/)
 
-## UX & Design
-### User Stories
+![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/preview.png)
+
+## UX
+The design of the page of purposefully kept simple to make it has intuitive as possible for user to interact with website and to avoid distracting the user from the main purpose of the webpage. 
+
+### Colour Scheme
+[coolors.co](https://coolors.co/171717-ffffff-ff3939-777777-d3d3d3) to generate my colour palette.
+
+![Colours Used](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/coolors.png)
+
+- `#171717` used for backgrounds and secondary text.
+- `#ffffff` used for primary text.
+- `#777777` used for primary highlights
+- `#FF3939` used for secondary highlights and secondary text.
+- `#D3D3D3` used for secondary highlights.
+
+### Typography
+
+Monserrat and Lato used for fonts and linked via Google Fonts. Icon linked via Remix Icon and Font Awesome.
+
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the body text.
+
+- [Lato](https://fonts.google.com/specimen/Lato) was used for h1 and h2 text.
+
+- [Remix Icon](https://remixicon.com/) icons were used for keyboard symbol on the pad buttons.
+
+- ![Remix Icon Icons Used](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/remix-icon-icons.png)
+
+- [Font Awesome](https://fontawesome.com/) icons were used for social media icons on the footer.
+
+- ![Font Awesome Icons Used](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/font-awesome-icons.png)
+
+## User Stories
+### Site Users
+
 - As a user, I want to activate audio files based on my input.
 - As a user, I want to see what see what audio sample i'm playing. 
 - As a user, I want to see the corresponding button/key to activate the audio sample.
 - As a user, I want to adjust the volume of audio playing directly on the webpage/app.
-- As a user, I want to be able to change to another bank of audio files/
+- As a user, I want to be able to change to another bank of audio files.
 - As a user, I want to be able to open/expand and close the instructions sections.
+- As a user, I want to be able to learn about sample pads.
+- As a user, I want to be able to learn how to the sample pad.
 
-### Wireframes
-### Colour Scheme
-### Typography
+## Wireframes
+
+[Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+
+### Home Page Wireframes
+
+As the wireframe was created in the early stages of the project some things changed
+
+![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/wireframes/wireframe.png)
 
 ## Features
-### Common Elements
+### Existing Features
 
-#### Logo and Navigation Bar
+- **Favicon**
 
-#### Favicon
-[favicon](https://iconscout.com/icon/music-863)
+    - The favicon on the browser tab is a picture of a musical note which is synonymous with audio/music which fits with the theme of the porject and also use the same colours used on the webpage
 
+    ![Favicon](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/favicon.png)
 
+- **Main Header**
 
-### Home Page
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
-This is where the user will be brought to when first entering the website.
+    ![Main Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/main-header.png)
 
-### Mobile Version Pages
+- **Volume Slider**
 
-The website used a mobile first approach. Below are screenshots of mobile version of website.
+    - Volume slider, used to adjust the output volume of the audio directly on the page. Shown below in three main postions
 
-#### Home Page
+    - Default Postion
 
+    ![Volume Slider Default](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider.png)
+
+    - Highest Postion
+
+    ![Volume Slider Highest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-full.png)
+
+    - Lowest Postion
+
+    ![Volume Slider Lowest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-lowest.png)
+
+- **Change Sample Bank Checkbox**
+
+    - Change Sample Bank Checkbox, used to change the sound bank to alternative audio files when engaged while still being usable with pad buttons and keyboard key presses.
+
+    - Checkbox Default(Unchecked) - Default Sound Files Loaded
+
+    ![Change Sample Bank Checkbox Default Unchecked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox.png)
+
+    - Checkbox Enagaged(Checked) - Alternative Sound Files Loaded
+
+    ![Change Sample Bank Checkbox Enagaged Checked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox-engaged.png)
+
+- **Pad Button Grid**
+
+    - Pad Button Grid, tweleve pad buttons which be pressed directly or via corresponding keyboard key to play audio file named.
+
+    ![Pad Button Grid](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png)
+
+- **Instructions Header**
+
+    - Header for instructions section of the webpage
+
+![Instructions Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-header.png)
+
+- **Instruction 1**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+- **Instructions 2**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+- **Footer**
+
+    - Footer, social media links and developer credit
+
+![Footer](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/footer.png)
 
 ### Future Features
 
+Do you have additional ideas that you'd like to include on your project in the future?
+Fantastic! List them here!
+It's always great to have plans for future improvements!
+Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
 
+- More customisation
+    - Allow users to upload their own audio files to make the webpage more versatile and user friendly to those who use more then just drums.
 
+- Change pad name based on file loaded
+    - Add a feature where the names on the pad button update when the banks are changed or different audio files are added.
 
-### Technologies Used
+- Add midi/recording functionally 
+    - Add a feature to allow midi files to be create to save ideas and also record ideas
 
-List of the technologies used on this website.
+- Backing tracks
+    - Add a feature to upload music/backing tracks so users can tap out drum beat the their musical creations.
 
-    JavaScript
-    JavaScript was used to add interactivity to the website.
+## Tools & Technologies Used
 
-    HTML5
-    HTML5 was used to create the structure of the site.
+The following are all the tools and technologies used to build the webpage.
 
-    CSS3
-    CSS3 was used to add styling to the site.
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 
-    Github
-    Github was used to store the project's code after being pushed from Git.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
 
-    Gitpod
-    Gitpod terminal was used to commit my code using Git and push it to Github.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp).
 
-    Git
-    Git was used for version control through the Gitpod terminal.
+- [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
 
+- [JavaScript](https://www.javascript.com) used for user interaction on the site.
 
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`).
+
+- [GitHub](https://github.com) used for secure online code storage.
+
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+
+- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
+
+- [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) used to help generate the Markdown files.
 
 ## Testing
 
-
+For all testing, please refer to the [TESTING.md](https://github.com/ogc1231/sample-pad/blob/main/TESTING.md) file.
 
 ## Deployment
 
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+- In the [GitHub repository](https://github.com/ogc1231/sample-pad), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-
-
+The live link can be found [here](https://ogc1231.github.io/sample-pad)
 
 ### Local Deployment
 
+This project can be cloned or forked in order to make a local copy on your own system.
 
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://github.com/ogc1231/sample-pad) 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash or Terminal
+5. Change the current working directory to the one where you want the cloned directory
+6. In your IDE Terminal, type the following command to clone my repository:
+	- `git clone https://github.com/ogc1231/sample-pad.git`
+7. Press Enter to create your local clone.
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ogc1231/sample-pad)
+
+Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
+A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
+
+#### Forking
+
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
+You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/ogc1231/sample-pad)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
 ## Credits
-### Code
 
-Code for the footer was taken from [Code Institute's](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/01-getting-set-up) Love Running walkthrough project with required tweaks to suit.
-
-Code for webpage was heavily inspired by the following videos
-
-Build A Piano With JavaScript - https://www.youtube.com/watch?v=vjco5yKZpU8
-
-Build A Playable PIANO in HTML CSS & JavaScript - https://www.youtube.com/watch?v=Mv1ZYpo8q4g
-
-Accordion (HTML, CSS and JavaScript) - https://www.youtube.com/watch?v=dr8Emho-kYo
+In this section you need to reference where you got your content, media, and extra help from.
+It is common practice to use code from other repositories and tutorials,
+however, it is important to be very specific about these sources to avoid plagiarism.
 
 ### Content
-donk - https://samplefocus.com/samples/hardbass-donk-one-shot
-Donk2 - https://www.youtube.com/watch?v=mNnCiTOSof0
-Drumshotz, kick,kick2,snare,snare2,tom-floor2,tom-medium2,tom-high2 - https://drumforge.com/collections/drumshotz/products/drumshotz-joel-wanasek-no-small-time-edition
 
-tom-floor,tom-medium-tom-high,crash-left,crash-right,china,china2,ride  - https://samplefocus.com/collections/fusion-drum-kit
- bella2,bellb2- https://www.youtube.com/watch?v=hL0mHU5tkIA
+Links to pages who's code which heavily inspired and help build this webpage with some tweaks.
 
- crash-left2,crash-right2 - https://soundcamp.org/tag/crash
+| [Code Institute's](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/01-getting-set-up) | footer | Code for the footer was taken from Love Running walkthrough project with required tweaks to suit.
 
- ride2 - https://soundcamp.org/tag/ride-cymbal
-### Design
+| [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) | README and TESTING | tool to help generate the Markdown files |
 
+| [YouTube](https://www.youtube.com/watch?v=vjco5yKZpU8) | entire page | Inspiration |
+
+| [YouTube](https://www.youtube.com/watch?v=Mv1ZYpo8q4g) | JavaScript, html | volume slider, checkbox idea(not fucntionality), linking keyboard presses to buttons |
+
+| [YouTube](https://www.youtube.com/watch?v=dr8Emho-kYo) | JavaScript, html, css | Accordion/instructions section |
+
+| [Wes Bos](https://courses.wesbos.com/account/access/6331d80b7a4bee445fa04dcd/view/194130650) | html, css | pad buttons, pad buttons transformations |
+|
 
 ### Media
 
+Links to audio files used
 
-#### Image links
+| [Remix Icon](https://iconscout.com/icon/music-863) | entire site | image, icon | favicon, keyboard icon |
 
-[favicon](https://iconscout.com/icon/music-863)
+| [Font Awesome](https://fontawesome.com) | entire site| image | social media icons |
+
+| [Samplefocus](https://samplefocus.com/samples/hardbass-donk-one-shot) | entire site | audio | tom-floor.wav, tom-medium.wav, tom-high.wav, crash-left.wav, crash-right.wav, china.wav, china2.wav, ride.wav |
+
+| [Samplefocus](https://samplefocus.com/collections/fusion-drum-kit) | entire site | audio | donk.wav |
+
+| [YouTube](https://www.youtube.com/watch?v=mNnCiTOSof0) | entire site | audio | donk2.wav |
+
+| [Soundcamp](https://soundcamp.org/tag/crash) | entire site | audio |  crash-left2.wav, crash-right2.wav |
+
+| [Soundcamp](https://soundcamp.org/tag/ride-cymbal) | entire site | audio | ride2.wav |
+
+| [Drumforge](https://drumforge.com/collections/drumshotz/products/drumshotz-joel-wanasek-no-small-time-edition) | entire site | audio | kick.wav, kick2.wav, snare.wav, snare2.wav, tom-floor2.wav, tom-medium2.wav, tom-high2.wav |
+
+### Acknowledgements
+
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
