@@ -29,11 +29,13 @@ Consider adding a link to each font used, and the Font Awesome site if used (or 
 
 Example:
 
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the body text.
 
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
+- [Lato](https://fonts.google.com/specimen/Lato) was used for h1 and h2 text.
 
-- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
+- [Remix Icon](https://remixicon.com/) icons were used for keyboard symbol on the pad buttons.
+
+- [Font Awesome](https://fontawesome.com/) icons were used for social media icons on the footer.
 
 ## User Stories
 
