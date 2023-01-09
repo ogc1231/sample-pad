@@ -1,6 +1,6 @@
 /* jshint esversion: 11 */
 
-// Button grid
+// Button press, keyboard press and volume slider
 
 const synthButton = document.querySelectorAll(".button");
 volume = document.querySelector(".volume input");
