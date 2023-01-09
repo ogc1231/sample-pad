@@ -7,62 +7,19 @@ The aim was to build an interactive front-end website which is repsonsive to the
 [Live link to website](https://ogc1231.github.io/sample-pad/)
 ![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/preview.png)
 
-
-Consider adding a mockup image using the "Am I Responsive" website.
-Here's your deployed site as an example:
-https://ui.dev/amiresponsive?url=https://ogc1231.github.io/sample-pad
-
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
-(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
-Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
-To add the image into your README, use this format:
-(assuming you have a new folder called `documentation` with an image called "mockup.png")
-
-![screenshot](documentation/mockup.png)
-
-Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
-Find out more about using Markdown elements here:
-https://pandao.github.io/editor.md/en.html
-
 ## UX
-
-In this section, you will briefly explain your design processes.
+The design of the page of purposefully kept simple to make it has intuitive as possible for user to interact with website and to avoid distracting the user from the main purpose of the webpage. 
 
 ### Colour Scheme
+I used [coolors.co](https://coolors.co/171717-ffffff-ff3939-777777-d3d3d3) to generate my colour palette.
 
-Explain your colours and the colour scheme.
+![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/coolors.png)
 
-- `#000000` used for primary text.
-- `#E84610` used for primary highlights.
-- `#4A4A4F` used for secondary text.
-- `#009FE3` used for secondary highlights.
-
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
-
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
-
-Example:
-
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
-
-![screenshot](documentation/coolors.png)
-
-If you've used CSS `:root` variables, consider also including a code snippet here!
-
-I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
-
-```css
-:root {
-    /* P = Primary | S = Secondary */
-    --p-text: #000000;
-    --p-highlight: #E84610;
-    --s-text: #4A4A4F;
-    --s-highlight: #009FE3;
-    --white: #FFFFFF;
-    --black: #000000;
-}
-```
+- `#171717` used for backgrounds and secondary text.
+- `#ffffff` used for primary text.
+- `#777777` used for primary highlights
+- `#FF3939` used for secondary highlights and secondary text.
+- `#D3D3D3` used for secondary highlights.
 
 ### Typography
 
@@ -97,14 +54,6 @@ In this section, list all of your user stories for the project.
 - As a returning site user, I would like to ____________, so that I can ____________.
 - As a returning site user, I would like to ____________, so that I can ____________.
 - As a returning site user, I would like to ____________, so that I can ____________.
-
-### Site Admin
-
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
 
 ## Wireframes
 
