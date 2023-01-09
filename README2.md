@@ -59,13 +59,7 @@ To follow best practice, wireframes were developed for mobile, tablet, and deskt
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 ### Home Page Wireframes
-
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
-
+![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/wireframes/wireframe.png)
 
 ## Features
 
