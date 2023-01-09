@@ -2,7 +2,7 @@
 
 This is website/app is for a sample pad that play audio files based on user input, is had been developed for those interested in audio production. The user can directly active audio files based on their direct input, more information on how use the app in the instruction of the webpage.
 
-[Live link to website](https://ogc1231.github.io/synth-pad/)
+[Live link to website](https://ogc1231.github.io/sample-pad/)
 
 ## UX & Design
 ### User Stories
@@ -95,8 +95,16 @@ Build A Playable PIANO in HTML CSS & JavaScript - https://www.youtube.com/watch?
 Accordion (HTML, CSS and JavaScript) - https://www.youtube.com/watch?v=dr8Emho-kYo
 
 ### Content
+donk - https://samplefocus.com/samples/hardbass-donk-one-shot
+Donk2 - https://www.youtube.com/watch?v=mNnCiTOSof0
+Drumshotz, kick,kick2,snare,snare2,tom-floor2,tom-medium2,tom-high2 - https://drumforge.com/collections/drumshotz/products/drumshotz-joel-wanasek-no-small-time-edition
 
+tom-floor,tom-medium-tom-high,crash-left,crash-right,china,china2,ride  - https://samplefocus.com/collections/fusion-drum-kit
+ bella2,bellb2- https://www.youtube.com/watch?v=hL0mHU5tkIA
 
+ crash-left2,crash-right2 - https://soundcamp.org/tag/crash
+
+ ride2 - https://soundcamp.org/tag/ride-cymbal
 ### Design
 
 
