@@ -80,7 +80,8 @@ h1, h2 {
 
 .button.active {
     box-shadow: 0 0 2.5rem #ff3939;
-    scale: 1.2;
+    transform: scale(1.2);
+    font-size: 1.2rem;
 }
 
 .keyboard {
@@ -181,7 +182,7 @@ li {
 .social-linka:focus,
 .credit-link:hover,
 .credit-link:focus {
-    color: #555;
+    color: #777;
 }
 
 .credit {
