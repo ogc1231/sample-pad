@@ -50,15 +50,11 @@ Example:
 - As a user, I want to be able to learn how to the sample pad.
 
 ## Wireframes
-
-In this section, display your wireframe screenshots using a Markdown `table`.
-
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
-
-To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 ### Home Page Wireframes
+As the wireframe was created in the early stages of the project some things changed
+
 ![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/wireframes/wireframe.png)
 
 ## Features
