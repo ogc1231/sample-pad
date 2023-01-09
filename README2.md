@@ -5,7 +5,7 @@ This is website/app is for a sample pad that play audio files based on user inpu
 The aim was to build an interactive front-end website which is repsonsive to the users actions.
 
 [Live link to website](https://ogc1231.github.io/sample-pad/)
-![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/preview.PNG)
+![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/preview.png)
 
 
 Consider adding a mockup image using the "Am I Responsive" website.
