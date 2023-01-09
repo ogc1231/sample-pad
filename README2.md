@@ -38,24 +38,16 @@ Example:
 - [Font Awesome](https://fontawesome.com/) icons were used for social media icons on the footer.
 
 ## User Stories
+### Site Users
 
-In this section, list all of your user stories for the project.
-
-### New Site Users
-
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-
-### Returning Site Users
-
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
+- As a user, I want to activate audio files based on my input.
+- As a user, I want to see what see what audio sample i'm playing. 
+- As a user, I want to see the corresponding button/key to activate the audio sample.
+- As a user, I want to adjust the volume of audio playing directly on the webpage/app.
+- As a user, I want to be able to change to another bank of audio files.
+- As a user, I want to be able to open/expand and close the instructions sections.
+- As a user, I want to be able to learn about sample pads.
+- As a user, I want to be able to learn how to the sample pad.
 
 ## Wireframes
 
@@ -74,23 +66,6 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
 | Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
 
-### About Page Wireframes
-
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
-
-### Contact Page Wireframes
-
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
-
-Repeat for any addition wireframe pages you have.
 
 ## Features
 
