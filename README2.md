@@ -73,19 +73,16 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 ### Existing Features
 
 - **Favicon**
-
     - The favicon on the browser tab is a picture of a musical note which is synonymous with audio/music which fits with the theme of the porject and also use the same colours used on the webpage
 
 ![Favicon](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/favicon.png)
 
 - **Main Header**
-
     - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
 ![Main Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/main-header.png)
 
 - **Volume Slider**
-
     - Volume slider, used to adjust the output volume of the audio directly on the page. Shown below in three main postions
 
     - Default Postion
@@ -97,9 +94,7 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
     - Lowest Postion
 ![Volume Slider Lowest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-lowest.png)
 
-
 - **Change Sample Bank Checkbox**
-
     - Change Sample Bank Checkbox, used to change the sound bank to alternative audio files when engaged while still being usable with pad buttons and keyboard key presses.
 
     - Checkbox Default(Unchecked) - Default Sound Files Loaded
@@ -108,14 +103,10 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
     - Checkbox Enagaged(Checked) - Alternative Sound Files Loaded
 ![Change Sample Bank Checkbox Enagaged Checked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox-engaged.png)
 
-
 - **Pad Button Grid**
+    - Pad Button Grid, tweleve pad buttons which be pressed directly or via corresponding keyboard key to play audio file named.
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-
-![screenshot](documentation/feature03.png)
-
-
+![Pad Button Grid](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png)
 
 - **Instructions Header**
 
