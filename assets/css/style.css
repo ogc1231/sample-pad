@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Source+Sans+Pro:wght@700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -5,6 +7,7 @@
 }
 
 body {
+    font-family: 'Montserrat', sans-serif;;
     font-size: 1rem;
     background-color: #171717;
 }
@@ -16,12 +19,11 @@ body {
 }
 
 h1, h2 {
+    font-family: 'Source Sans Pro', sans-serif;
     color: white;
-}
-
-h1 {
     margin: 1rem 0;
 }
+
 
 /* Volume slider */
 
@@ -84,6 +86,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 0.25rem;
 }
 
 .letter {
