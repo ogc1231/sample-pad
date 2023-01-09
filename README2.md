@@ -14,7 +14,7 @@ The design of the page of purposefully kept simple to make it has intuitive as p
 ### Colour Scheme
 [coolors.co](https://coolors.co/171717-ffffff-ff3939-777777-d3d3d3) to generate my colour palette.
 
-![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/coolors.png)
+![Colours Used](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/coolors.png)
 
 - `#171717` used for backgrounds and secondary text.
 - `#ffffff` used for primary text.
@@ -32,7 +32,11 @@ Monserrat and Lato used for fonts and linked via Google Fonts. Icon linked via R
 
 - [Remix Icon](https://remixicon.com/) icons were used for keyboard symbol on the pad buttons.
 
+- ![Remix Icon Icons Used](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/remix-icon-icons.png)
+
 - [Font Awesome](https://fontawesome.com/) icons were used for social media icons on the footer.
+
+- ![Font Awesome Icons Used](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/font-awesome-icons.png)
 
 ## User Stories
 ### Site Users
@@ -105,15 +109,11 @@ As the wireframe was created in the early stages of the project some things chan
 
     ![Pad Button Grid](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png)
 
-
-
 - **Instructions Header**
 
     - Header for instructions section of the webpage
 
 ![Instructions Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-header.png)
-
-
 
 - **Instruction 1**
 
