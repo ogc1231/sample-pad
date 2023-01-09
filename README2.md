@@ -5,6 +5,7 @@ This is website/app is for a sample pad that play audio files based on user inpu
 The aim was to build an interactive front-end website which is repsonsive to the users actions.
 
 [Live link to website](https://ogc1231.github.io/sample-pad/)
+
 ![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/preview.png)
 
 ## UX
@@ -56,31 +57,19 @@ As the wireframe was created in the early stages of the project some things chan
 ![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/wireframes/wireframe.png)
 
 ## Features
-
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
 ### Existing Features
 
 - **Favicon**
 
     - The favicon on the browser tab is a picture of a musical note which is synonymous with audio/music which fits with the theme of the porject and also use the same colours used on the webpage
 
-![Favicon](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/favicon.png)
+    ![Favicon](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/favicon.png)
 
 - **Main Header**
 
     - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
-![Main Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/main-header.png)
+    ![Main Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/main-header.png)
 
 - **Volume Slider**
 
@@ -88,15 +77,15 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
     - Default Postion
 
-![Volume Slider Default](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider.png)
+    ![Volume Slider Default](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider.png)
 
     - Highest Postion
 
-![Volume Slider Highest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-full.png)
+    ![Volume Slider Highest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-full.png)
 
     - Lowest Postion
 
-![Volume Slider Lowest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-lowest.png)
+    ![Volume Slider Lowest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-lowest.png)
 
 - **Change Sample Bank Checkbox**
 
@@ -104,17 +93,17 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
     - Checkbox Default(Unchecked) - Default Sound Files Loaded
 
-![Change Sample Bank Checkbox Default Unchecked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox.png)
+    ![Change Sample Bank Checkbox Default Unchecked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox.png)
 
     - Checkbox Enagaged(Checked) - Alternative Sound Files Loaded
 
-![Change Sample Bank Checkbox Enagaged Checked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox-engaged.png)
+    ![Change Sample Bank Checkbox Enagaged Checked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox-engaged.png)
 
 - **Pad Button Grid**
 
     - Pad Button Grid, tweleve pad buttons which be pressed directly or via corresponding keyboard key to play audio file named.
 
-![Pad Button Grid](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png)
+    ![Pad Button Grid](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png)
 
 
 
