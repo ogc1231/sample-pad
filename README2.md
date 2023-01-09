@@ -76,19 +76,26 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
     - The favicon on the browser tab is a picture of a musical note which is synonymous with audio/music which fits with the theme of the porject and also use the same colours used on the webpage
 
-![screenshot](documentation/feature01.png)
+![Favicon](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/favicon.png)
 
 - **Main Header**
 
     - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
-![screenshot](documentation/feature02.png)
+![Main Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/main-header.png)
 
 - **Volume Slider**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Volume slider, used to adjust the output volume of the audio directly on the page. Shown below in three main postions
 
-![screenshot](documentation/feature03.png)
+    - Default Postion
+![Volume Slider Default](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider.png)
+
+    - Highest Postion
+![Volume Slider Highest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-full.png)
+
+    - Lowest Postion
+![Volume Slider Lowest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-lowest.png)
 
 
 - **Change Sample Bank Checkbox**
