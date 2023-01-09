@@ -19,12 +19,17 @@ h1, h2 {
     color: white;
 }
 
+h1 {
+    margin: 1rem 0;
+}
+
 /* Volume slider */
 
 .volume {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 1rem;
 }
 
 .volume-text {
@@ -32,10 +37,14 @@ h1, h2 {
     padding-right: 0.5rem;
 }
 
-.slider, .change {
+.change {
     margin-bottom: 1rem;
     color: white;
 }
+
+/* Checkbox */
+
+
 
 /* Button grid */
 
