@@ -52,14 +52,15 @@ h1, h2 {
 
 .button-container {
     display: grid;
-    grid-template-columns: repeat(2, 150px) ;
+    grid-template-columns: repeat(2, 130px) ;
     justify-content: center;
     gap: 15px;
+    padding: 1rem 0;
 }
 
 .button {
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
     color: white;
     background-color: #171717;
     box-shadow: 0 0 0.4rem #ff3939;
@@ -197,6 +198,10 @@ li {
 @media (min-width: 650px) {
     .button-container {
         grid-template-columns: repeat(3, 150px);
+    }
+    .button {
+        width: 150px;
+        height: 150px;
     }
 }
 
