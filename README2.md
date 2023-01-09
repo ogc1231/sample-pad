@@ -230,37 +230,22 @@ however, it is important to be very specific about these sources to avoid plagia
 
 ### Content
 
-Use this space to provide attribution links to any borrowed code snippets, elements, or resources.
-A few examples have been provided below to give you some ideas.
+Links to pages who's code which heavily inspired and help build this webpage with some tweaks.
 
-Ideally, you should provide an actual link to every resource used, not just a generic link to the main site!
+| [Code Institute's](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/01-getting-set-up) | footer | Code for the footer was taken from Love Running walkthrough project with required tweaks to suit.
 
-| Source | Location | Notes |
-| --- | --- | --- |
 | [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) | README and TESTING | tool to help generate the Markdown files |
-| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
-| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
-| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
-| [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
-| [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
-| [StackOverflow](https://stackoverflow.com/a/2450976) | quiz page | Fisher-Yates/Knuth shuffle in JS |
-| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc) | leaderboard | using `localStorage()` in JS for high scores |
-| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
-| [strftime](https://strftime.org) | CRUD functionality | helpful tool to format date/time from string |
-| [WhiteNoise](http://whitenoise.evans.io) | entire site | hosting static files on Heroku temporarily |
+
+| [YouTube](https://www.youtube.com/watch?v=vjco5yKZpU8) | entire page | Inspiration |
+
+| [YouTube](https://www.youtube.com/watch?v=Mv1ZYpo8q4g) | JavaScript, html | volume slider, checkbox idea(not fucntionality), linking keyboard presses to buttons |
+
+| [YouTube](https://www.youtube.com/watch?v=dr8Emho-kYo) | JavaScript, html, css | Accordion/instructions section |
+
+| [Wes Bos](https://courses.wesbos.com/account/access/6331d80b7a4bee445fa04dcd/view/194130650) | html, css | pad buttons, pad buttons transformations |
+|
 
 ### Media
-
-Use this space to provide attribution links to any images, videos, or audio files borrowed from online.
-A few examples have been provided below to give you some ideas.
-
-If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
-Let the assessors know that you have explicit rights to use the media files within your project.
-
-Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
-The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
-by sending yourself the following command: `!freemedia`.
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
