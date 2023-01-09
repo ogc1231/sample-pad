@@ -52,7 +52,7 @@ Monserrat and Lato used for fonts and linked via Google Fonts. Icon linked via R
 
 ## Wireframes
 
-[Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+[Balsamiq](https://balsamiq.com/wireframes) to design site wireframes.
 
 ### Home Page Wireframes
 
@@ -147,7 +147,7 @@ Consider adding any helpful links or notes to help remind you in the future, if 
     - Add a feature where the names on the pad button update when the banks are changed or different audio files are added.
 
 - Add midi/recording functionally 
-    - Add a feature to allow midi files to be create to save ideas and also record ideas
+    - Add a feature to allow midi files to be created to save ideas and also record ideas
 
 - Backing tracks
     - Add a feature to upload music/backing tracks so users can tap out drum beat the their musical creations.
