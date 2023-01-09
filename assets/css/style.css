@@ -52,7 +52,7 @@ h1, h2 {
 
 .button-container {
     display: grid;
-    grid-template-columns: repeat(4, 150px) ;
+    grid-template-columns: repeat(2, 150px) ;
     justify-content: center;
     gap: 15px;
 }
@@ -191,4 +191,17 @@ li {
 .credit-link {
     text-decoration: none;
     color: #fff;
+}
+
+/* Media Queries */
+@media (min-width: 650px) {
+    .button-container {
+        grid-template-columns: repeat(3, 150px);
+    }
+}
+
+@media (min-width: 800px) {
+    .button-container {
+        grid-template-columns: repeat(4, 150px);
+    }
 }
