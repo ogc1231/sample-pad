@@ -155,6 +155,7 @@ li {
 .footer {
     background-color: #171717;
     padding: 1.2em 0;
+    color: #fff;
 }
 
 .social-links {
@@ -184,6 +185,7 @@ li {
 
 .credit {
     text-align: center;
+    color: #ff3939;
 }
 
 .credit-link {
