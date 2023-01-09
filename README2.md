@@ -100,10 +100,13 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 - **Change Sample Bank Checkbox**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Change Sample Bank Checkbox, used to change the sound bank to alternative audio files when engaged while still being usable with pad buttons and keyboard key presses.
 
-![screenshot](documentation/feature03.png)
+    - Checkbox Default(Unchecked) - Default Sound Files Loaded
+![Change Sample Bank Checkbox Default Unchecked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox.png)
 
+    - Checkbox Enagaged(Checked) - Alternative Sound Files Loaded
+![Change Sample Bank Checkbox Enagaged Checked](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox-engaged.png)
 
 
 - **Pad Button Grid**
