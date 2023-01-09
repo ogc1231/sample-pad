@@ -109,7 +109,7 @@ As the wireframe was created in the early stages of the project some things chan
 
 - **Instructions Header**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Header for instructions section of the webpage
 
 ![Instructions Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-header.png)
 
