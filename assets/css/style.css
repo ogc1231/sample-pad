@@ -222,9 +222,14 @@ li {
     }
 }
 
-@media (min-width: 900px) {
+@media (min-width: 800px) {
     .button-container {
         grid-template-columns: repeat(4, 180px);
+    }
+}
+
+@media (min-width: 900px) {
+    .button-container {
         gap: 40px;
     }
     h1 {
