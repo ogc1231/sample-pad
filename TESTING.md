@@ -116,7 +116,7 @@ Error logged to the console when page is first loaded
 
 ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/bug5.png)
 
-### Bug 5 
+### Bug 6 
 Error logged to the console pad buttons are when clicked too fast
 
 ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/bug6.png)
