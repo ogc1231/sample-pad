@@ -226,4 +226,7 @@ li {
     .button-container {
         grid-template-columns: repeat(4, 150px);
     }
+    h1 {
+        margin-top: 3rem;
+    }
 }
