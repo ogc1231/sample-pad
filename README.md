@@ -231,38 +231,27 @@ however, it is important to be very specific about these sources to avoid plagia
 ### Content
 
 Links to pages who's code which heavily inspired and help build this webpage with some tweaks.
-
+| Source | File | Use |
+| --- | --- | --- |
 | [Code Institute's](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/01-getting-set-up) | footer | Code for the footer was taken from Love Running walkthrough project with required tweaks to suit.
-
 | [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) | README and TESTING | tool to help generate the Markdown files |
-
 | [YouTube](https://www.youtube.com/watch?v=vjco5yKZpU8) | entire page | Inspiration |
-
 | [YouTube](https://www.youtube.com/watch?v=Mv1ZYpo8q4g) | JavaScript, html | volume slider, checkbox idea(not fucntionality), linking keyboard presses to buttons |
-
 | [YouTube](https://www.youtube.com/watch?v=dr8Emho-kYo) | JavaScript, html, css | Accordion/instructions section |
-
 | [Wes Bos](https://courses.wesbos.com/account/access/6331d80b7a4bee445fa04dcd/view/194130650) | html, css | pad buttons, pad buttons transformations |
-|
 
 ### Media
 
 Links to audio files used
-
+| Source | File | File type | Use|
+| --- | --- | --- | --- |
 | [Remix Icon](https://iconscout.com/icon/music-863) | entire site | image, icon | favicon, keyboard icon |
-
 | [Font Awesome](https://fontawesome.com) | entire site| image | social media icons |
-
 | [Samplefocus](https://samplefocus.com/samples/hardbass-donk-one-shot) | entire site | audio | tom-floor.wav, tom-medium.wav, tom-high.wav, crash-left.wav, crash-right.wav, china.wav, china2.wav, ride.wav |
-
 | [Samplefocus](https://samplefocus.com/collections/fusion-drum-kit) | entire site | audio | donk.wav |
-
 | [YouTube](https://www.youtube.com/watch?v=mNnCiTOSof0) | entire site | audio | donk2.wav |
-
 | [Soundcamp](https://soundcamp.org/tag/crash) | entire site | audio |  crash-left2.wav, crash-right2.wav |
-
 | [Soundcamp](https://soundcamp.org/tag/ride-cymbal) | entire site | audio | ride2.wav |
-
 | [Drumforge](https://drumforge.com/collections/drumshotz/products/drumshotz-joel-wanasek-no-small-time-edition) | entire site | audio | kick.wav, kick2.wav, snare.wav, snare2.wav, tom-floor2.wav, tom-medium2.wav, tom-high2.wav |
 
 ### Acknowledgements
