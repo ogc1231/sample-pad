@@ -47,8 +47,7 @@ Monserrat and Lato used for fonts and linked via Google Fonts. Icon linked via R
 - As a user, I want to adjust the volume of audio playing directly on the webpage/app.
 - As a user, I want to be able to change to another bank of audio files.
 - As a user, I want to be able to open/expand and close the instructions sections.
-- As a user, I want to be able to learn about sample pads.
-- As a user, I want to be able to learn how to the sample pad.
+- As a user, I want to be able to learn how to use the sample pad.
 
 ## Wireframes
 
