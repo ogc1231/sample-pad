@@ -4,7 +4,7 @@
 const synthButton = document.querySelectorAll(".button");
 let volume = document.querySelector(".volume input");
 
-let audio = new Audio("assets/audio/kick1.wav");
+let audio = new Audio("assets/audio/kick.wav");
 
 let clickedKey;
 
