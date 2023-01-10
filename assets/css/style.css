@@ -190,6 +190,7 @@ li {
 .credit {
     text-align: center;
     color: #ff3939;
+    margin-bottom: 1rem;
 }
 
 .credit-link {
