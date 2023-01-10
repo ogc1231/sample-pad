@@ -53,38 +53,18 @@ Webpage tested on multiple browsers to check for compatibility issues. All worke
 | Chrome | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/chrome.png) | Works as expected |
 | Firefox | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/firefox.png) | Works as expected |
 | Edge | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/edge.png) | Works as expected |
+| Brave Mobile | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/brave-plite.png) | Works as expected |
 
 ## Responsiveness
 
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-The minimum requirement is for the following 3 tests:
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of the tested responsiveness, to "prove" that you've actually tested them.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well.
-It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-Sample responsiveness testing documentation:
-
-I've tested my deployed project on multiple devices to check for responsiveness issues.
+Webpage tested on multiple devices to check for compatibility issues. All worked as expected.
 
 | Device | Screenshot | Notes |
 | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsive-mobile.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsive-tablet.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsive-desktop.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsive-xl.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsive-4k.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsive-pixel.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsive-iphone.png) | Works as expected |
-| x | x | repeat for any other tested sizes |
+| Iphone 12 (DevTools) | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/iphone12.png) | Works as expected |
+| Ipad Pro (DevTools) | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/ipadpro.png) | Works as expected |
+| Huawei P30 Lite | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/brave-plite.png) | Works as expected |
+
 
 ## Lighthouse Audit
 
