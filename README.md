@@ -256,4 +256,4 @@ Links to audio files used
 
 ### Acknowledgements
 
-- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
+- Thanks to, [Tim Nelson](https://github.com/TravelTimN) for his support throughout the development of this project.
