@@ -95,4 +95,15 @@ from the respective feature.
 
 ## Bugs
 
-When two keyboard keys are pressed at the same time 
+Below are the currently known bugs, there may be other that have not yet been discovered. 
+
+### Bug 1
+When two keyboard keys are pressed at the same time pad gets stuck in active postion until that same key is pressed again.
+
+![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/bug.png)
+
+### Bug 2
+When two keyboard keys are pressed at the same time only one of the pressed audio files will play
+
+### Bug 3
+Sometimes there a delay after a pad button is pressed via mouse or keyboard before the audio plays.
