@@ -85,7 +85,7 @@ from the respective feature.
 
 | User Story | Screenshot |
 | --- | --- |
-| As a user, I want to activate audio files based on my input. | ![screenshot](documentation/feature01.png) |
+| As a user, I want to activate audio files based on my input. | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/active.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/mouse.png) |
 
 | As a user, I want to see what see what audio sample i'm playing.  | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png) |
 
