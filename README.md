@@ -116,15 +116,17 @@ As the wireframe was created in the early stages of the project some things chan
 
 - **Instruction 1**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Instructions Question 1, shown in closed and open states
 
-![screenshot](documentation/feature03.png)
+![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-one-closed.png)
+![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/q1-open.png)
 
-- **Instructions 2**
+- **Instruction 2**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Instructions Question 2, shown in closed and open states
 
-![screenshot](documentation/feature03.png)
+![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-two-closed.png)
+![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/q2-open.png)
 
 - **Footer**
 
