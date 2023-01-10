@@ -224,18 +224,6 @@ li {
 
 @media (min-width: 800px) {
     .button-container {
-        grid-template-columns: repeat(4, 180px);
-    }
-}
-
-@media (min-width: 900px) {
-    .button-container {
-        gap: 40px;
-    }
-    h1 {
-        margin-top: 3rem;
-    }
-    body {
-        font-size: 1.2rem;
+        grid-template-columns: repeat(4, 150px);
     }
 }
