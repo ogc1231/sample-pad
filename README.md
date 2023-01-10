@@ -1,4 +1,4 @@
-# SAMPLE PAD
+# Drum SAMPLE PAD
 
 This is website/app is for a sample pad that play audio files based on user input, is had been developed for those interested in audio production. The user can activate audio files based on their direct input by clicking or pressing the corresponding keyboard key, more information on how use the app in the instruction of the webpage.
 
