@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     background-color: #171717;
 }
@@ -18,7 +18,8 @@ body {
     text-align: center;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Source Sans Pro', sans-serif;
     color: #fff;
     margin: 1rem 0;
@@ -46,7 +47,7 @@ h1, h2 {
 /* Button Grid */
 .button-container {
     display: grid;
-    grid-template-columns: repeat(2, 130px) ;
+    grid-template-columns: repeat(2, 130px);
     justify-content: center;
     gap: 15px;
     padding: 1rem 0;
@@ -137,7 +138,7 @@ h1, h2 {
     text-align: left;
 }
 
-.question.active + .answer {
+.question.active+.answer {
     display: block;
 }
 
@@ -201,20 +202,24 @@ li {
     .button-container {
         grid-template-columns: repeat(3, 150px);
     }
+
     .button {
         width: 150px;
         height: 150px;
     }
+
     .button.active {
         font-size: 1.2rem;
     }
+
     .question-answer {
         font-size: 1.3rem;
     }
+
     .how-to-use {
         font-size: 1.1rem;
     }
-    
+
 }
 
 @media (min-width: 800px) {
