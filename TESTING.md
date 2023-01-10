@@ -86,17 +86,11 @@ from the respective feature.
 | User Story | Screenshot |
 | --- | --- |
 | As a user, I want to activate audio files based on my input. | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/active.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/mouse.png) |
-
 | As a user, I want to see what see what audio sample i'm playing.  | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png) |
-
 | As a user, I want to see the corresponding button/key to activate the audio sample. | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png) |
-
 | As a user, I want to adjust the volume of audio playing directly on the webpage/app. | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-full.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-lowest.png) |
-
 | As a user, I want to be able to change to another bank of audio files.| ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox-engaged.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox.png) |
-
 | As a user, I want to be able to open/expand and close the instructions sections. | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-one-closed.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/q1-open.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-two-closed.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/q2-open.png) |
-
 | As a user, I want to be able to learn how to use the sample pad. | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/q2-open.png) |
 
 ## Bugs
