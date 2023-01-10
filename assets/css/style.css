@@ -140,7 +140,7 @@ h1, h2 {
 .answer {
     display: none;
     border-top: 1px solid #777;
-    padding: 0.5rem 0 0.5rem 3rem;
+    padding: 0.5rem 1rem 0.5rem 2rem;
     text-align: left;
 }
 
@@ -148,8 +148,17 @@ h1, h2 {
     display: block;
 }
 
+.question-answer {
+    font-size: 1.1rem;
+}
+
 li {
     list-style-type: none;
+}
+
+.how-to-use {
+    list-style-type: disc;
+    margin-bottom: 0.8rem;
 }
 
 
@@ -206,6 +215,12 @@ li {
     }
     .button.active {
         font-size: 1.2rem;
+    }
+    .question-answer {
+        font-size: 1.3rem;
+    }
+    .how-to-use {
+        font-size: 1.1rem;
     }
     
 }
