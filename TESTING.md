@@ -72,7 +72,7 @@ Project tested using the Lighthouse Audit tool to check for any major issues.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse-home-mobile.png) | No major issues |
+| Home | Mobile | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/lighthouse-mobile.png) | No major issues |
 | Home | Desktop | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/lighthouse-desktop.png) | No major issues |
 
 ## User Story Testing
@@ -95,39 +95,4 @@ from the respective feature.
 
 ## Bugs
 
-It's very important to document any bugs you've discovered while developing the project.
-Make sure to include any necessary steps you've implemented to fix the bug(s) as well.
-
-For JavaScript and Python applications, it's best to screenshot the errors to include them as well.
-
-**PRO TIP**: screenshots of bugs are extremely helpful, and go a long way!
-
-- JS Uncaught ReferenceError: `foobar` is undefined/not defined
-
-    ![screenshot](documentation/bug01.png)
-
-    - To fix this, I _____________________.
-
-- JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
-
-    ![screenshot](documentation/bug02.png)
-
-    - To fix this, I _____________________.
-
-- Python `'ModuleNotFoundError'` when trying to import module from imported package
-
-    ![screenshot](documentation/bug03.png)
-
-    - To fix this, I _____________________.
-
-- Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
-
-- Python `E501 line too long` (93 > 79 characters)
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
+When two keyboard keys are pressed at the same time 
