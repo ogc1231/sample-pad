@@ -24,13 +24,13 @@ The design of the page was purposefully kept simple to make it as intuitive as p
 
 ### Typography
 
-Monserrat and Lato used for fonts and linked via Google Fonts. Icon linked via Remix Icon and Font Awesome.
+Monserrat and Lato used for fonts and linked via Google Fonts. Icons linked via Remix Icon and Font Awesome.
 
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the body text.
 
 - [Lato](https://fonts.google.com/specimen/Lato) was used for h1 and h2 text.
 
-- [Remix Icon](https://remixicon.com/) icons were used for keyboard symbol on the pad buttons.
+- [Remix Icon](https://remixicon.com/) icons were used for the keyboard symbol on the pad buttons.
 
 - ![Remix Icon Icons Used](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/remix-icon-icons.png)
 
@@ -64,13 +64,13 @@ As the wireframe was created in the early stages of the project some things chan
 
 - **Favicon**
 
-    - The favicon on the browser tab is a picture of a musical note which is synonymous with audio/music which fits with the theme of the porject and also use the same colours used on the webpage
+    - The favicon on the browser tab is a picture of a musical note which is synonymous with audio/music which fits with the theme of the project and also uses the same colours used on the webpage
 
     ![Favicon](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/favicon.png)
 
 - **Main Header**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Drum Sample Pad, self explanatory title stating the purpose of the website.
 
     ![Main Header](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/main-header.png)
 
@@ -82,11 +82,11 @@ As the wireframe was created in the early stages of the project some things chan
 
     ![Volume Slider Default](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider.png)
 
-    - Highest Postion
+    - Highest Postion - full volume
 
     ![Volume Slider Highest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-full.png)
 
-    - Lowest Postion
+    - Lowest Postion - no volume
 
     ![Volume Slider Lowest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-lowest.png)
 
@@ -104,7 +104,7 @@ As the wireframe was created in the early stages of the project some things chan
 
 - **Pad Button Grid**
 
-    - Pad Button Grid, tweleve pad buttons which be pressed directly or via corresponding keyboard key to play audio file named.
+    - Pad Button Grid, twelve pad buttons which be pressed directly or via corresponding keyboard key to play audio file named.
 
     ![Pad Button Grid](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/pad-button-grid.png)
 
@@ -136,10 +136,7 @@ As the wireframe was created in the early stages of the project some things chan
 
 ### Future Features
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
+Ideas for future features that add a lot of value to the website.
 
 - More customisation
     - Allow users to upload their own audio files to make the webpage more versatile and user friendly to those who use more then just drums.
@@ -151,7 +148,7 @@ Consider adding any helpful links or notes to help remind you in the future, if 
     - Add a feature to allow midi files to be created to save ideas and also record ideas
 
 - Backing tracks
-    - Add a feature to upload music/backing tracks so users can tap out drum beat the their musical creations.
+    - Add a feature to upload music/backing tracks so users can tap out a drum beat to their musical creations.
 
 ## Tools & Technologies Used
 
@@ -258,3 +255,4 @@ Links to audio files used
 ### Acknowledgements
 
 - Thanks to, [Tim Nelson](https://github.com/TravelTimN) for his support throughout the development of this project.
+- Thanks to, [Alan](https://learn.codeinstitute.net) for helping fix bug 5.
