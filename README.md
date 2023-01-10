@@ -234,7 +234,7 @@ however, it is important to be very specific about these sources to avoid plagia
 
 ### Content
 
-Links to pages who's code which heavily inspired and help build this webpage with some tweaks.
+Links to pages who's code which heavily inspired and helped build this webpage with some tweaks.
 | Source | File | Use |
 | --- | --- | --- |
 | [Code Institute's](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/01-getting-set-up) | footer | Code for the footer was taken from Love Running walkthrough project with required tweaks to suit.
