@@ -107,3 +107,6 @@ When two keyboard keys are pressed at the same time only one of the pressed audi
 
 ### Bug 3
 Sometimes there a delay after a pad button is pressed via mouse or keyboard before the audio plays.
+
+### Bug 4
+When multiple button pads are spam pressed on mobile the audio cuts out completely.
