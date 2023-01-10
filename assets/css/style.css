@@ -222,7 +222,7 @@ li {
     }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
     .button-container {
         grid-template-columns: repeat(4, 180px);
         gap: 40px;
