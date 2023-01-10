@@ -1,6 +1,6 @@
 # Drum SAMPLE PAD
 
-This is website/app is for a sample pad that plays audio files based on user input, is had been developed for those interested in audio production. The user can activate audio files based on their direct input by clicking or pressing the corresponding keyboard key, more information on how use the app in the instruction of the webpage.
+This is website/app is for a sample pad that plays audio files based on user input, is has been developed for those interested in audio production. The user can activate audio files based on their direct input by clicking or pressing the corresponding keyboard key, more information on how use the app in the instruction of the webpage.
 
 The aim was to build an interactive front-end website which is repsonsive to the users actions.
 
@@ -62,6 +62,12 @@ As the wireframe was created in the early stages of the project some things chan
 ## Features
 ### Existing Features
 
+- **Homepage**
+
+    - Homepage where the majority of the features can be seen.
+
+    ![Homepage](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/firefox.png)
+
 - **Favicon**
 
     - The favicon on the browser tab is a picture of a musical note which is synonymous with audio/music which fits with the theme of the project and also uses the same colours used on the webpage
@@ -78,15 +84,15 @@ As the wireframe was created in the early stages of the project some things chan
 
     - Volume slider, used to adjust the output volume of the audio directly on the page. Shown below in three main postions
 
-    - Default Postion
+    - Default Postion - 50% volume
 
     ![Volume Slider Default](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider.png)
 
-    - Highest Postion - full volume
+    - Highest Postion - 100% full volume
 
     ![Volume Slider Highest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-full.png)
 
-    - Lowest Postion - no volume
+    - Lowest Postion - 0% no volume
 
     ![Volume Slider Lowest](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/volume-slider-lowest.png)
 
