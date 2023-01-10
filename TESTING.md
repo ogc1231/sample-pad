@@ -95,8 +95,9 @@ from the respective feature.
 
 | As a user, I want to be able to change to another bank of audio files.| ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox-engaged.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/checkbox.png) |
 
-| As a user, I want to be able to open/expand and close the instructions sections. | ![screenshot](documentation/feature06.png) |
-| As a user, I want to be able to learn how to use the sample pad. | ![screenshot](documentation/feature08.png) |
+| As a user, I want to be able to open/expand and close the instructions sections. | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-one-closed.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/q1-open.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/instructions-two-closed.png) ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/q2-open.png) |
+
+| As a user, I want to be able to learn how to use the sample pad. | ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/q2-open.png) |
 
 ## Bugs
 
