@@ -124,7 +124,7 @@ h2 {
     content: ">";
     position: absolute;
     right: 1rem;
-    border-radius: none;
+    border-radius: unset;
 }
 
 .question.active::after {
