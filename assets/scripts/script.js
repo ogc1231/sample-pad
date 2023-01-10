@@ -1,6 +1,6 @@
 /* jshint esversion: 11 */
 
-// Button Press, Keyboard Press and Volume Slider
+// Button Press, Keyboard Press and Volume Slider. This code taken and adapted from mutiple sources linked in README.md
 const synthButton = document.querySelectorAll(".button");
 let volume = document.querySelector(".volume input");
 
@@ -42,7 +42,7 @@ const pressedKey = (e) => {
 volume.addEventListener("input", handleVolume);
 document.addEventListener("keydown", pressedKey);
 
-// Accordion Menu
+// Accordion Menu, This code taken and adapted from a source linked in README.md
 const questions = document.querySelectorAll(".question");
 
 questions.forEach(question => {
