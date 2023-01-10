@@ -24,9 +24,7 @@ h1, h2 {
     margin: 1rem 0;
 }
 
-
-/* Volume slider */
-
+/* Volume Slider */
 .volume {
     display: flex;
     align-items: center;
@@ -39,17 +37,13 @@ h1, h2 {
     padding-right: 0.5rem;
 }
 
+/* Checkbox */
 .change {
     margin-bottom: 1rem;
     color: #fff;
 }
 
-/* Checkbox */
-
-
-
-/* Button grid */
-
+/* Button Grid */
 .button-container {
     display: grid;
     grid-template-columns: repeat(2, 130px) ;
@@ -95,8 +89,7 @@ h1, h2 {
     padding-left: 0.25rem;
 }
 
-/* Instruction/accordion section */
-
+/* Instruction/Accordion Section */
 .instructions-item {
     background-color: #d3d3d3;
     max-width: 650px;
@@ -161,8 +154,7 @@ li {
     margin-bottom: 0.8rem;
 }
 
-
-/* Footer section */
+/* Footer Section */
 .footer {
     background-color: #171717;
     padding: 1.2em 0;
