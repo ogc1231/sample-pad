@@ -1,6 +1,6 @@
 # Drum SAMPLE PAD
 
-This is website/app is for a sample pad that play audio files based on user input, is had been developed for those interested in audio production. The user can activate audio files based on their direct input by clicking or pressing the corresponding keyboard key, more information on how use the app in the instruction of the webpage.
+This is website/app is for a sample pad that plays audio files based on user input, is had been developed for those interested in audio production. The user can activate audio files based on their direct input by clicking or pressing the corresponding keyboard key, more information on how use the app in the instruction of the webpage.
 
 The aim was to build an interactive front-end website which is repsonsive to the users actions.
 
@@ -9,7 +9,7 @@ The aim was to build an interactive front-end website which is repsonsive to the
 ![Website preview](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/preview.png)
 
 ## UX
-The design of the page of purposefully kept simple to make it has intuitive as possible for user to interact with website and to avoid distracting the user from the main purpose of the webpage. 
+The design of the page was purposefully kept simple to make it as intuitive as possible for user to interact with the website and to avoid distracting the user from the main purpose of the webpage. 
 
 ### Colour Scheme
 [coolors.co](https://coolors.co/171717-ffffff-ff3939-777777-d3d3d3) to generate my colour palette.
