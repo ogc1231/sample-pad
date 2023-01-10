@@ -112,7 +112,7 @@ Sometimes there a delay after a pad button is pressed via mouse or keyboard befo
 When multiple button pads are spam pressed on mobile the audio cuts out completely.
 
 ### Bug 5 
-Error logged to the console when page is first loaded
+Error logged to the console when page is first loaded *BUG HAS BEEN FIXED*
 
 ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/bug5.png)
 
