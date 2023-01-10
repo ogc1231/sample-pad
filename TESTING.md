@@ -5,13 +5,7 @@ Return back to the [README.md](README.md) file.
 The website was tested on mutiple devices and screen sizes including phones, computers, tablets and various monitor sizes.
 
 ## Code Validation
-
-Use the space to discuss code validation for any of your own code files (where applicable).
-You are not required to validate external libraries/frameworks, such as imported Bootstrap, Materialize, Font Awesome, etc.
-
-**IMPORTANT**: You must provide a screenshot for each file you validate.
-
-**PRO TIP**: Always validate the live site pages, not your local code. There could be subtle/hidden differences.
+Code was tested for errors used a range of validation tool linked below.
 
 ### HTML
 
@@ -77,11 +71,7 @@ Project tested using the Lighthouse Audit tool to check for any major issues.
 
 ## User Story Testing
 
-Testing user stories is actually quite simple, once you've already got the stories defined on your README.
-
-Most of your project's **features** should already align with the **user stories**,
-so this should as simple as creating a table with the user story, matching with the re-used screenshot
-from the respective feature.
+User Story goals the project fulfils.
 
 | User Story | Screenshot |
 | --- | --- |
@@ -106,12 +96,12 @@ When two keyboard keys are pressed at the same time pad gets stuck in active pos
 When two keyboard keys are pressed at the same time only one of the pressed audio files will play
 
 ### Bug 3
-Sometimes there a delay after a pad button is pressed via mouse or keyboard before the audio plays.
+Sometimes there is a delay after a pad button is pressed via mouse or keyboard before the audio plays.
 
 ### Bug 4
 When multiple button pads are spam pressed on mobile the audio cuts out completely.
 
-### Bug 5 
+### Bug 5 *BUG HAS BEEN FIXED*
 Error logged to the console when page is first loaded *BUG HAS BEEN FIXED*
 
 ![screenshot](https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/bug5.png)
